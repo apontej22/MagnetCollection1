@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Magnet Collection1</string>
+    <string name="seaworld">Seaworld image</string>
+    <string name="pompano">Pompano Beach image</string>
+    <string name="adler">Adler Planetarium image</string>
+    <string name="botanic">Botanic Garden image</string>
+    <string name="field">Field Museum image</string>
+    <string name="sixFlags">Six Flags image</string>
+    <string name="outdoors">Great Outdoors image</string>
+    <string name="lostCanyon">Lost Canyon image</string>
+    <string name="dells">Wisconsin Dells image</string>
+    <string name="saintLouis">Saint Louis image</string>
+    <string name="branson">Branson image</string>
+    <string name="wrigley">Wrigley Field image</string>
+    <string name="silverDollar">Silver Dollar City image</string>
+
+</resources>
